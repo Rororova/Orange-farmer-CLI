@@ -100,7 +100,7 @@ You should already have the project folder (the one containing `automation.js`).
 2. Choose where to extract it (e.g., your Desktop)
 3. You should now have a folder with these files inside:
    ```
-   📁 Raze/
+   📁 Orange-farmer-CLI/
    ├── automation.js      ← the main script
    ├── package.json       ← dependency list
    ├── config.json        ← your settings
